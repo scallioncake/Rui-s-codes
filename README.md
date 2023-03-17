@@ -1,2 +1,2 @@
-# study_notes
+# Some codes
 I will be powerful there.
