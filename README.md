@@ -1,5 +1,6 @@
-I will be powerful there.
+```I will be powerful there.```
 
-- Project1: Thrombosis Detection
-- Project2: Estimates the patients’ chance of intubation in the Intensive Care Unit (ICU)
-- Project3: The duration of intubation 
+- **Project1**: Thrombosis detection
+- **Project2**: Estimates the patients’ chance of intubation in the Intensive Care Unit (ICU)
+- **Project3**: Predict the duration of intubation 
+- **Project4**: Data analysis on financial data
