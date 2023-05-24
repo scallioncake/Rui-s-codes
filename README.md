@@ -1,4 +1,4 @@
-```I will be powerful there.```
+``` I will be powerful here. ```
 
 - **Project1**: Thrombosis detection
 - **Project2**: Estimates the patients’ chance of intubation in the Intensive Care Unit (ICU)
